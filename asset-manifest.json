@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crop-tracker/static/css/main.073c9b0a.css",
+    "main.js": "/crop-tracker/static/js/main.b6aad507.js",
+    "static/js/787.8f9786b9.chunk.js": "/crop-tracker/static/js/787.8f9786b9.chunk.js",
+    "static/media/logo.svg": "/crop-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crop-tracker/index.html",
+    "main.073c9b0a.css.map": "/crop-tracker/static/css/main.073c9b0a.css.map",
+    "main.b6aad507.js.map": "/crop-tracker/static/js/main.b6aad507.js.map",
+    "787.8f9786b9.chunk.js.map": "/crop-tracker/static/js/787.8f9786b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6aad507.js"
+  ]
+}
